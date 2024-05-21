@@ -1,36 +1,59 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h1 align="center" id="title">Music Lessons</h1>
 
-## Getting Started
+<p id="description">This web application allows musicians to sell online music courses. Built with Next.js TypeScript and Aceternity UI it provides a user-friendly platform for creating managing and selling music lessons.</p>
 
-First, run the development server:
+<h2>🚀 Demo</h2>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+[https://music-course-lessons.netlify.app](https://music-course-lessons.netlify.app)
+
+  
+  
+<h2>🧐 Features</h2>
+
+Here're some of the project's best features:
+
+*   Modern UI: A sleek and intuitive user interface built with Aeternity UI.
+*   Course creation: Upload video lessons sheet music and other learning materials.
+
+<h2>🛠️ Installation Steps:</h2>
+
+<p>1. Prerequisites: Node.js and npm (or yarn) installed on your system. You can check by running the following code in the terminal.</p>
+
+```
+node -v and npm -v (or yarn -v)
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+<p>2. Clone the Repository: Open your terminal and navigate to the directory where you want to clone the project. Then run the following command:</p>
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```
+git clone https://github.com/Kunjshah20/Music-Lessons.git
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+<p>3. Install project dependencies using npm or yarn:</p>
 
-## Learn More
+```
+npm install
+```
 
-To learn more about Next.js, take a look at the following resources:
+<p>4. Start the Development Server: Once the dependencies are installed you can start the development server to run the application locally:</p>
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+```
+npm run dev
+```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+<p>5. Wohoo enjoy coding🥳</p>
 
-## Deploy on Vercel
+  
+  
+<h2>💻 Built with</h2>
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Technologies used in the project:
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+*   Next.js
+*   TyperScript
+*   Aceternity UI
+
+## 📞 Contact Information
+
+- **GitHub:** [Kunjshah20](https://github.com/Kunjshah20)
+- **LinkedIn:** [Kunj Shah](https://www.linkedin.com/in/kunjshah4u/)
